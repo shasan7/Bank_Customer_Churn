@@ -7,7 +7,7 @@ Obtained the following results:
 
 Classifiers:  LogisticRegression has a score of 85.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -25,7 +25,7 @@ Classifiers:  LogisticRegression has a score of 85.0 % accuracy score.
 
 Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -43,7 +43,7 @@ Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
 
 Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -61,7 +61,7 @@ Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
 
 Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -79,7 +79,7 @@ Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
 
 Classifiers:  SVC has a score of 93.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -97,7 +97,7 @@ Classifiers:  SVC has a score of 93.0 % accuracy score.
 
 Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
@@ -115,7 +115,7 @@ Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
 
 Classifiers:  XGBClassifier has a score of 97.0 % accuracy score.
 
-  Classification Report: 
+    Classification Report: 
   
                precision    recall  f1-score   support
 
