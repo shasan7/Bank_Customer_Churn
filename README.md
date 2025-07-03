@@ -18,9 +18,9 @@ Classifiers:  LogisticRegression has a score of 85.0 % accuracy score.
     macro avg      0.74      0.83      0.77      2026
     weighted avg   0.89      0.85      0.86      2026
 
-  Confusion Matrix: 
-   [[1461  240]
-   [  63  262]] 
+    Confusion Matrix: 
+     [[1461  240]
+     [  63  262]] 
 
 
 Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
@@ -36,9 +36,9 @@ Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
     macro avg      0.94      0.88      0.91      2026
     weighted avg   0.95      0.95      0.95      2026
 
-  Confusion Matrix: 
-   [[1683   18]
-   [  76  249]] 
+    Confusion Matrix: 
+     [[1683   18]
+     [  76  249]] 
 
 
 Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
@@ -54,9 +54,9 @@ Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
     macro avg      0.73      0.83      0.76      2026
     weighted avg   0.89      0.84      0.86      2026
 
-  Confusion Matrix: 
-   [[1448  253]
-   [  62  263]] 
+    Confusion Matrix: 
+     [[1448  253]
+     [  62  263]] 
 
 
 Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
@@ -72,9 +72,9 @@ Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
     macro avg      0.73      0.83      0.76      2026
     weighted avg   0.88      0.84      0.86      2026
 
-  Confusion Matrix: 
-   [[1446  255]
-   [  65  260]] 
+    Confusion Matrix: 
+     [[1446  255]
+     [  65  260]] 
 
 
 Classifiers:  SVC has a score of 93.0 % accuracy score.
@@ -90,9 +90,9 @@ Classifiers:  SVC has a score of 93.0 % accuracy score.
     macro avg      0.85      0.89      0.87      2026
     weighted avg   0.93      0.93      0.93      2026
 
-  Confusion Matrix: 
-   [[1601  100]
-   [  51  274]] 
+    Confusion Matrix: 
+     [[1601  100]
+     [  51  274]] 
 
 
 Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
@@ -108,9 +108,9 @@ Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
     macro avg      0.92      0.95      0.93      2026
     weighted avg   0.96      0.96      0.96      2026
 
-  Confusion Matrix: 
-   [[1647   54]
-   [  23  302]] 
+    Confusion Matrix: 
+     [[1647   54]
+     [  23  302]] 
 
 
 Classifiers:  XGBClassifier has a score of 97.0 % accuracy score.
@@ -126,9 +126,9 @@ Classifiers:  XGBClassifier has a score of 97.0 % accuracy score.
     macro avg      0.95      0.92      0.94      2026
     weighted avg   0.97      0.97      0.97      2026
 
-  Confusion Matrix: 
-   [[1681   20]
-   [  45  280]] 
+    Confusion Matrix: 
+     [[1681   20]
+     [  45  280]] 
 
 
 Feature importance for the XGBoost Classifier:
