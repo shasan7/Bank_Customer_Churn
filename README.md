@@ -3,7 +3,7 @@ Predicting Bank Credit Card Customer Churn using the Credit Card Customers datas
 Used scikit-learn's machine learning models for prediction. Logistic Regression, Random Forest, Support Vector Machine, XGBoost, CatBoost, Ridge Classifier and SGD Classifiers were run.
 
 The XGBoost attained an accuracy of 97% with an F1-Score of 0.94, performing best among the machine learning algorithms. 
-We trained it with 100 estimators using the "logloss" evaluation metric, and 'Balanced' value was passed to the class_weights parameter to provide attention to the minority class, which is crucial for a dataset like ours with huge class imbalance.
+We trained it with 100 estimators using the "logloss" evaluation metric, and 'balanced' value was passed to the class_weights parameter to provide attention to the minority class, which is crucial for a dataset like ours with huge class imbalance.
 
 Obtained the following results:
 
