@@ -1,6 +1,6 @@
 # Predicting Bank Credit Card Customer Churn using the Credit Card Customers dataset
 
-## Dataset Link: (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+## Dataset Link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 ## Kaggle Notebook: https://www.kaggle.com/code/shasan7/bank-churn
 
